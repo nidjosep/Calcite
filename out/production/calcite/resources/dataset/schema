@@ -1,0 +1,3 @@
+country_happiness(Country:string,Overall_rank:int,Score:double,Social_support:float,Freedom_to_make_life_choices:float,Generosity:float,Perceptions_of_corruption:float)
+
+country_gdp(Country_name:string,Country_Code:string,GDP_USD:float,GDP_per_capita_scaled:float,Continent:string,Population:long,Life_expectancy:float)

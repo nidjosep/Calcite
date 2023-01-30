@@ -1,0 +1,11 @@
+COURSEID:int,TITLE:string,CATEGORYID:int
+1,Java,1
+5,English,2
+4,Big Data,1
+2,C,1
+6,Investment,3
+3,Data Science,1
+7,Public Speaking,2
+9,Macro Economics,3
+10,Linear Algebra,4
+8,Algorithms,1

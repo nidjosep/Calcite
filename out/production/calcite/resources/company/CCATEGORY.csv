@@ -1,0 +1,5 @@
+CATID:int,CATNAME:string
+1,computer science
+2,communication
+3,finance
+4,math
